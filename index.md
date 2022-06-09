@@ -18,7 +18,7 @@
 <body>
 	<div>
 		<!-- <p style="font-family:angrybirds_bold; text-align: center; color: white; font-size:50px">Angry Birds Slingshot Frenzy</p> -->
-    <p style="text-align: center;"><img src="slingshot_frenzy_logo.png" style="width:30%;"></p>
+    <p style="text-align: center;"><img src="slingshot_frenzy_logo.png" style="width:10%;"></p>
 	</div>
 <div id="fb-root"></div>
 	<script src="box2d.asm.js"></script>
